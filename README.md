@@ -22,8 +22,8 @@
 </br>
 <div align=left>
 <h2 align=left> 📝​​ Listas</h2>
-<p>Os exercícios foram disponibilizados pela plataforma Beecrowd.
-Para visualizar o enunciado basta clicar no <strong>Nome do Exercício</strong> e para visualizar o código basta clicar em <strong>Code</strong>.</p>
+<p>Os exercícios foram disponibilizados pela plataforma <a href="https://www.beecrowd.com.br/"><img height="28" width="100" src="./readme/logo_beecrowd.png"></a></p>
+<p>Para visualizar o enunciado basta clicar no <strong>Nome do Exercício</strong> e para visualizar o código basta clicar em <strong>Code</strong>.</p>
 <ol>
     <li>
       <ul>
@@ -48,17 +48,40 @@ Para visualizar o enunciado basta clicar no <strong>Nome do Exercício</strong> 
     </li>
     <li>
       <ul>
-      <li></li>
+      <li>1711 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1711">Área do quadrado</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista2/areaQuadrado.py">Code</a>
+      </li>
+      <li>1713 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1713">Salário 02</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista2/salario2.py">Code</a>
+      </li>
+      <li>1714 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1714">Comerciante</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista2/comerciante.py">Code</a>
+      </li>
+      <li>1715 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1715">Loja</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista2/loja.py">Code</a>
+      </li>
+      <li>1716 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1716">Plano de Trabalho</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista2/planoDeTrabalho.py">Code</a>
+      </li>
+      </br>
       </ul>
     </li>
     <li>
       <ul>
-      <li></li>
+      <li>1733 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1733">Salário condicional</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista3/salarioCondicional.py">Code</a>
+      </li>
+      <li>1734 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1734">Fatorial</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista3/fatorial.py">Code</a>
+      </li>
+      <li>1735 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1735">Nasa</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista3/contagemRegressivaNasa.py">Code</a>
+      </li>
+      <li>1737 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1737">Soma Números</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista3/somaNumeros.py">Code</a>
+      </li>
+      </br>
       </ul>
     </li>
     <li>
       <ul>
-      <li></li>
+      <li>1759 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1759">Aumento Anual</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista%204/aumentoAnual.py">Code</a>
+      </li>
+      <li>1760 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1760">Pesquisa - Idade e Peso</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista%204/pesquisaIdadePeso.py">Code</a>
+      </li>
+      <li>1761 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1761">Loja Tabajara</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista%204/lojaTabajara.py">Code</a>
+      </li>
       </ul>
     </li>
 </ol>
