@@ -1,3 +1,5 @@
+# Escreva uma função em Python que calcule o comprimento da hipotenusa de um triângulo retângulo, ao serem fornecidos os catetos. A função deve receber dois parâmetros do tipo float e retornar a hipotenusa com o tipo float.
+
 import math
 
 lado1 = float(input('Informe o 1° lado:'))
