@@ -3,7 +3,7 @@
 </div>
 <br>
 <h1 align="center"> 
-	 Algoritimos e Programação 
+	 Algoritmos e Programação 
 </h1>
 
 </br>
@@ -89,14 +89,9 @@
 
 </br>
 
-
 <h2>​📧​​ Contato </h2>
 <div>
  <a href="https://discordapp.com/users/Davi Ferreira#3299" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:daviferreiraaew@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/davi-ferreira-42912624" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
-
-
-
