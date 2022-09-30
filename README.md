@@ -20,11 +20,12 @@
 </div>
 
 </br>
+
 <div align=left>
-<h2 align=left> 📝​​ Listas</h2>
-<p>Os exercícios foram disponibilizados pela plataforma <a href="https://www.beecrowd.com.br/"><img height="28" width="100" src="./readme/logo_beecrowd.png"></a></p>
-<p>Para visualizar o enunciado basta clicar no <strong>Nome do Exercício</strong> e para visualizar o código basta clicar em <strong>Code</strong>.</p>
-<ol>
+  <h2 align=left> 📝​​ Listas</h2>
+  <p>Os exercícios foram disponibilizados pela plataforma <a href="https://www.beecrowd.com.br/"><img height="28" width="100" src="./readme/logo_beecrowd.png"></a></p>
+  <p>Para visualizar o enunciado basta clicar no <strong>Nome do Exercício</strong> e para visualizar o código basta clicar em <strong>Code</strong>.</p>
+  <ol>
     <li>
       <ul>
         <li>1002 - <a href="https://www.beecrowd.com.br/judge/pt/problems/view/1002">Área do Círculo</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista1/areaDoCirculo.py">Code</a>
@@ -84,7 +85,13 @@
       </li>
       </ul>
     </li>
-</ol>
+  </ol>
+  </br>
+  <p>Exercícios LAB Semana 6</p>
+  <ol>
+  <li><a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/readme/labSemana6_1.png">Área do Triangulo</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lab%20Semana%206/areaTriangulo.py">Code</a></li>
+  <li><a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/readme/labSemana6_2.png">Hipotenusa</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lab%20Semana%206/hipotenusa.py">Code</a></li>
+  </ol>
 </div>
 
 </br>
