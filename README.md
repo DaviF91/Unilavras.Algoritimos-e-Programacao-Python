@@ -77,11 +77,11 @@
     </li>
     <li>
       <ul>
-      <li>1759 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1759">Aumento Anual</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista%204/aumentoAnual.py">Code</a>
+      <li>1759 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1759">Aumento Anual</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista4/aumentoAnual.py">Code</a>
       </li>
-      <li>1760 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1760">Pesquisa - Idade e Peso</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista%204/pesquisaIdadePeso.py">Code</a>
+      <li>1760 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1760">Pesquisa - Idade e Peso</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista4/pesquisaIdadePeso.py">Code</a>
       </li>
-      <li>1761 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1761">Loja Tabajara</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista%204/lojaTabajara.py">Code</a>
+      <li>1761 - <a href="https://www.beecrowd.com.br/judge/pt/custom-problems/view/1761">Loja Tabajara</a> | <a href="https://github.com/DaviF91/Unilavras.Algoritimos-e-Programacao-Python/blob/master/lista4/lojaTabajara.py">Code</a>
       </li>
       </ul>
     </li>
