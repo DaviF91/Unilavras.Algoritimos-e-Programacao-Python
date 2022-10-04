@@ -1,3 +1,6 @@
+# 1005 - Média 1
+  # https://www.beecrowd.com.br/judge/pt/problems/view/1005
+
 notaA = float(input(""))
 notaB = float(input(""))
 

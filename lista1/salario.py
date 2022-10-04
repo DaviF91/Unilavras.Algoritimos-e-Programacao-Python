@@ -1,3 +1,6 @@
+# 1008 - Salário
+  # https://www.beecrowd.com.br/judge/pt/problems/view/1008
+
 num = int(input(""))
 horaTrabalhada = int(input(""))
 valorHora = float(input(""))
