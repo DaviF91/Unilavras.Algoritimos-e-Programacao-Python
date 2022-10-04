@@ -1,3 +1,6 @@
+# 1716 - Plano de Trabalho
+  # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1716
+
 plano = input("")
 salario = float(input(""))
 

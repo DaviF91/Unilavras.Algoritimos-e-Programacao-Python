@@ -1,3 +1,6 @@
+# 1713 - Salário 02
+  # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1713
+
 valorHora = float(input(""))
 horaTrabalhada = float(input(""))
 

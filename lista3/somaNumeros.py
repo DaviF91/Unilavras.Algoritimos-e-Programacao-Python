@@ -1,5 +1,7 @@
-qtdNumero = int(input(""))
+# 1737 - Soma Números
+  # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1737
 
+qtdNumero = int(input(""))
 
 valAcum = 0
 

@@ -1,3 +1,6 @@
+# 1759 - Aumento Anual
+    # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1759
+
 salario = 1015
 anoInicial = 2006
 aumento = 0.025

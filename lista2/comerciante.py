@@ -1,3 +1,6 @@
+# 1714 - Comerciante
+  # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1714
+
 valorCompra = float(input(""))
 
 lucro1 = (valorCompra * 0.45) + valorCompra

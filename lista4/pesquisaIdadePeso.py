@@ -1,3 +1,6 @@
+# 1760 - Pesquisa - Idade e Peso
+    # https://www.beecrowd.com.br/judge/pt/custom-problems/view/1760
+
 mais90 = 0
 idades = 0
 for c in range(4):
